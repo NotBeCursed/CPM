@@ -1,5 +1,4 @@
-# CPM
-CLI Password Manager
+# CPM - CLI Password Manager
 ---
 
 ## Setup
